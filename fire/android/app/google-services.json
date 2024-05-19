@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276144804049",
+    "project_id": "fluttercrud-dce2f",
+    "storage_bucket": "fluttercrud-dce2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276144804049:android:a54d4cc6984c597ad135f0",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmuI-Jbo7EQIlL0Uev6boL87H4PdUReo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276144804049:android:fb699cfc32686282d135f0",
+        "android_client_info": {
+          "package_name": "com.example.realtimetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmuI-Jbo7EQIlL0Uev6boL87H4PdUReo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
